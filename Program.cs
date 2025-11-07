@@ -2,7 +2,6 @@
 {
     using System;
     using System.Windows.Forms;
-
     /// <summary>
     /// Defines the <see cref="Program" />.
     /// </summary>
