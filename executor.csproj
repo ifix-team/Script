@@ -5,7 +5,6 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{2FF3361F-493E-466A-AA29-ADD3F3816146}</ProjectGuid>
-
     <OutputType>WinExe</OutputType>
     <RootNamespace>executor</RootNamespace>
     <AssemblyName>Executor</AssemblyName>
@@ -170,4 +169,5 @@
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 
 </Project>
+
 
