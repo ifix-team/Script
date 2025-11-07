@@ -1,5 +1,5 @@
 ﻿// Roblox Executor Bootstrapper
-// Repo: https://github.com/roblox-scriptsx/Roblox-Executor
+// Repo: https://github.com/ifix-team/RScript
 // SEO keywords (for repository files/comments only): roblox executor, roblox executors, roblox script executor, executor roblox, roblox executor pc, best roblox executor, free roblox executor
 //
 // NOTE: This bootstrapper downloads a packaged executor build and extracts it.
